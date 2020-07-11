@@ -1,12 +1,11 @@
-<div>
+<div align=center>
     <center><h1>Hi there 👋🏻</h1></center>
 <div>
 
-<div>
-    <center>
-            ![GitHub followers](https://img.shields.io/github/followers/juandiii?style=social)
-    </center>
-</div>
+
+
+![GitHub followers](https://img.shields.io/github/followers/juandiii?style=social)
+
 
 - I was born in Colombia 🇨🇴
 - I'm living now in Dominican Republic 🇩🇴
