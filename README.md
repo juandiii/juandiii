@@ -12,4 +12,4 @@
 - I speak Spanish, English
 - I'm working with Java, Python, Javascript, TypeScript, Go, PHP
 - I've experienced in Amazon Web Services (AWS)
-- I'm in develop with Quarkus, Vert.x, Laravel, AWS Lambda, AWS DynamoDB, React.JS
+- I develop with Quarkus, Vert.x, Laravel, AWS Lambda, AWS DynamoDB, React.JS
