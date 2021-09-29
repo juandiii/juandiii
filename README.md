@@ -9,6 +9,6 @@
 - Bachelor's Degree in Computer And Systems Engineering at [PUCMM](https://pucmm.edu.do)
 - I'm currently working at [NTI](http://nti.do)
 - I speak Spanish, English
-- I'm working with Java, Python, Javascript, TypeScript, Go, PHP, Ruby
+- I'm working with Java, Python, Javascript, TypeScript, Go, Ruby, PHP
 - I've experienced in Amazon Web Services (AWS)
-- I develop with Quarkus, Vert.x, AWS S3, AWS Lambda, AWS DynamoDB, React.JS, Ruby on Rails, Laravel, Symfony
+- I develop with Quarkus, Spring Boot, Vert.x, AWS S3, AWS Lambda, AWS DynamoDB, React.JS, Ruby on Rails, Laravel
