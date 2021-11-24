@@ -7,7 +7,6 @@
 - I was born in Colombia 🇨🇴
 - I'm living now in Dominican Republic 🇩🇴
 - Bachelor's Degree in Computer And Systems Engineering at [PUCMM](https://pucmm.edu.do)
-- I'm currently working at [NTI](http://nti.do)
 - I speak Spanish, English
 - I'm working with Java, Python, Javascript, TypeScript, Go, Ruby, PHP
 - I've experienced in Amazon Web Services (AWS)
