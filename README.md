@@ -9,5 +9,5 @@
 - Bachelor's Degree in Computer And Systems Engineering at [PUCMM](https://pucmm.edu.do)
 - I speak Spanish, English
 - I'm working with Java, Python, Javascript, TypeScript, Go, Ruby, PHP
-- I've experienced in Amazon Web Services (AWS)
+- I've had experienced in Amazon Web Services (AWS)
 - I develop with NestJS, Quarkus, Spring Boot, Vert.x, AWS S3, AWS Lambda, AWS DynamoDB, React.JS, Ruby on Rails, Laravel
