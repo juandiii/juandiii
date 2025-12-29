@@ -10,4 +10,4 @@
 - I speak Spanish, English
 - I'm working with Java, Python, Javascript, TypeScript, Go, Ruby, PHP
 - I've had experienced in Amazon Web Services (AWS)
-- I develop with Quarkus, Spring Boot, NestJS, Vert.x, AWS S3, AWS Lambda, AWS DynamoDB, React (CRA React, NextJS, React Native), Ruby on Rails, Laravel
+- I develop with Quarkus, Spring Boot, NestJS, Vert.x, AWS S3, AWS Lambda, AWS DynamoDB, React (Vite, CRA React, NextJS, React Native), Ruby on Rails, Laravel
