@@ -6,8 +6,8 @@
 
 
 🇨🇴 From Colombia &nbsp;·&nbsp; 🇩🇴 Based in Dominican Republic &nbsp;·&nbsp; 🗣 ES / EN  
-🎓 B.Sc. Computer & Systems Engineering — Pontificia Universidad Catolica Madre & Maestra (PUCMM)  
-🔐 M.Sc. Cybersecurity — Universidad Camilo José Cela (UCJC)
+🎓 B.Sc. Computer & Systems Engineering — Pontificia Universidad Católica Madre & Maestra (PUCMM) 🇩🇴  
+🔐 M.Sc. Cybersecurity — Universidad Camilo José Cela (UCJC) 🇪🇸
 
 ---
 
